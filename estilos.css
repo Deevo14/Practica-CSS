@@ -101,9 +101,8 @@ p {
 
 img {
     float:left;
+    margin-right: 0.5em;
 }
 
-p.margen_imagen{
-    margin-left: 5em;
-}
+
 
